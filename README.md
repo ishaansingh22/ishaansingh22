@@ -1,4 +1,4 @@
-- ishaan singh
+**ishaan singh**
 - cs @ uiuc 
 - interests: artificial intelligence & machine learning : nlp, computer vision, deep learning
 - orgs: acm @ uiuc (sigaida lead), ieee, inaya connect (2020-2023)
